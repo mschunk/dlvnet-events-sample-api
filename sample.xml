@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Events>
+    <Request>
+        <Filename>none.xml</Filename>
+        <Version>0.2</Version>
+        <Created>2017-09-08 22:35:30</Created>
+        <EventID>17V02000000000311</EventID>
+        <DateCUStart></DateCUStart>
+        <DateCUEnd></DateCUEnd>
+        <StateID>2</StateID>
+        <CountyID></CountyID>
+        <DistrictID></DistrictID>
+        <ClubID>5216</ClubID>
+        <TypeID>1</TypeID>
+    </Request>
+    <Event ID="17V02000000000311" Type="1" Name="14. Dreikönigs-Benefizlauf" Created="2016-10-28 01:26:21">
+        <EventType ID="8"/>
+        <EventCategory ID="1"/>
+        <DateStart>2017-01-06</DateStart>
+        <DateEnd>2017-01-06</DateEnd>
+        <Time>13:30</Time>
+        <ClosingDate></ClosingDate>
+        <SignOnUrl></SignOnUrl>
+        <CountryCode>GER</CountryCode>
+        <StateID>2</StateID>
+        <CountyID></CountyID>
+        <DistrictID></DistrictID>
+        <ClubID>5216</ClubID>
+        <FirstTime>0</FirstTime>
+        <ApplyTaxes>0</ApplyTaxes>
+        <Organizer>
+            <Salutation></Salutation>
+            <FirstName>Vorname</FirstName>
+            <LastName>Name</LastName>
+            <Street>Strase 12</Street>
+            <Additional></Additional>
+            <ZipCode></ZipCode>
+            <City>12345 Stadt</City>
+            <Phone>0151 123456789</Phone>
+            <Mobile></Mobile>
+            <Fax></Fax>
+            <Email>test@example.com</Email>
+            <Web>http://example.com</Web>
+            <AdditionalInformation></AdditionalInformation>
+        </Organizer>
+        <Comp>
+            <StartPlace>Turnhalle</StartPlace>
+            <Street></Street>
+            <ZipCode>12345</ZipCode>
+            <City>Stadt</City>
+            <GPS/>
+        </Comp>
+        <Drive>
+            <Street></Street>
+            <ZipCode>12345</ZipCode>
+            <City>Stadt</City>
+            <GPS/>
+        </Drive>
+        <EventFiles/>
+        <AgeGroups>
+            <AgeGroup ID="1">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="3">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="4">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="5">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="6">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="7">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="8">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="9">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="10">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="11">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="12">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="13">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="14">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="80">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="91">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="26">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="28">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="29">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="30">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="31">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="32">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="33">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="34">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="35">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="36">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="37">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="38">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="81">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="82">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+            <AgeGroup ID="92">
+                <Disciplines>
+                    <Discipline ID="431" Normed="0" DisciplineName="11,4km Hobbylauf" Distance="11.400"/>
+                    <Discipline ID="433" Normed="0" DisciplineName="9,6km N-Walking" Distance="9.600"/>
+                </Disciplines>
+            </AgeGroup>
+        </AgeGroups>
+        <TotalApprovalState>1</TotalApprovalState>
+        <AssociationSupervision></AssociationSupervision>
+        <AssociationSupervisionMail></AssociationSupervisionMail>
+        <EventCancelled>0</EventCancelled>
+    </Event>
+</Events>
